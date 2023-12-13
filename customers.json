@@ -1,0 +1,741 @@
+[ {
+    "id": "C001",
+    "first_name": "Dwayne",
+    "last_name": "Johnson",
+    "cash": 150000,
+    "basket": {
+      "id": "B001",
+      "products": [
+        {
+          "id": "P001",
+          "category": "Food",
+          "name": "Milk",
+          "price": 12000,
+          "quantity": 2
+        },
+        {
+          "id": "P002",
+          "category": "Bakery",
+          "name": "Bread",
+          "price": 4000,
+          "quantity": 3
+        },
+        {
+          "id": "P003",
+          "category": "Fruit",
+          "name": "Apple",
+          "price": 23000,
+          "quantity": 1
+        }
+      ],
+      "total": 59000
+    }
+  },
+  {
+    "id": "C002",
+    "first_name": "Emma",
+    "last_name": "Watson",
+    "cash": 120000,
+    "basket": {
+      "id": "B002",
+      "products": [
+        {
+          "id": "P004",
+          "category": "Snack",
+          "name": "Chips",
+          "price": 8000,
+          "quantity": 4
+        },
+        {
+          "id": "P005",
+          "category": "Beverage",
+          "name": "Soda",
+          "price": 5000,
+          "quantity": 2
+        }
+      ],
+      "total": 42000
+    }
+  },
+  {
+    "id": "C003",
+    "first_name": "Michael",
+    "last_name": "Jordan",
+    "cash": 200000,
+    "basket": {
+      "id": "B003",
+      "products": [
+        {
+          "id": "P006",
+          "category": "Meat",
+          "name": "Steak",
+          "price": 30000,
+          "quantity": 1
+        },
+        {
+          "id": "P007",
+          "category": "Vegetable",
+          "name": "Carrot",
+          "price": 5000,
+          "quantity": 5
+        },
+        {
+          "id": "P008",
+          "category": "Dairy",
+          "name": "Cheese",
+          "price": 15000,
+          "quantity": 2
+        }
+      ],
+      "total": 85000
+    }
+  },
+  {
+    "id": "C004",
+    "first_name": "Alicia",
+    "last_name": "Keys",
+    "cash": 180000,
+    "basket": {
+      "id": "B004",
+      "products": [
+        {
+          "id": "P009",
+          "category": "Clothing",
+          "name": "T-shirt",
+          "price": 2500,
+          "quantity": 6
+        }
+      ],
+      "total": 15000
+    }
+  },
+  {
+    "id": "C005",
+    "first_name": "Leonardo",
+    "last_name": "DiCaprio",
+    "cash": 160000,
+    "basket": {
+      "id": "B005",
+      "products": [
+        {
+          "id": "P010",
+          "category": "Electronics",
+          "name": "Smartphone",
+          "price": 50000,
+          "quantity": 1
+        },
+        {
+          "id": "P011",
+          "category": "Accessories",
+          "name": "Headphones",
+          "price": 8000,
+          "quantity": 2
+        }
+      ],
+      "total": 66000
+    }
+  },
+  {
+    "id": "C006",
+    "first_name": "Serena",
+    "last_name": "Williams",
+    "cash": 140000,
+    "basket": {
+      "id": "B006",
+      "products": [
+        {
+          "id": "P012",
+          "category": "Sports",
+          "name": "Tennis Balls",
+          "price": 1500,
+          "quantity": 8
+        },
+        {
+          "id": "P013",
+          "category": "Fitness",
+          "name": "Protein Bar",
+          "price": 3000,
+          "quantity": 3
+        }
+      ],
+      "total": 21000
+    }
+  },
+  {
+    "id": "C007",
+    "first_name": "Tom",
+    "last_name": "Hanks",
+    "cash": 220000,
+    "basket": {
+      "id": "B007",
+      "products": [
+        {
+          "id": "P014",
+          "category": "Books",
+          "name": "Novel",
+          "price": 12000,
+          "quantity": 2
+        },
+        {
+          "id": "P015",
+          "category": "Stationery",
+          "name": "Notebook",
+          "price": 2000,
+          "quantity": 5
+        }
+      ],
+      "total": 25000
+    }
+  },
+  {
+    "id": "C008",
+    "first_name": "Jennifer",
+    "last_name": "Lopez",
+    "cash": 190000,
+    "basket": {
+      "id": "B008",
+      "products": [
+        {
+          "id": "P016",
+          "category": "Cosmetics",
+          "name": "Lipstick",
+          "price": 8000,
+          "quantity": 4
+        },
+        {
+          "id": "P017",
+          "category": "Fragrance",
+          "name": "Perfume",
+          "price": 25000,
+          "quantity": 1
+        }
+      ],
+      "total": 57000
+    }
+  },
+  {
+    "id": "C009",
+    "first_name": "Chris",
+    "last_name": "Hemsworth",
+    "cash": 210000,
+    "basket": {
+      "id": "B009",
+      "products": [
+        {
+          "id": "P018",
+          "category": "Outdoor",
+          "name": "Camping Tent",
+          "price": 35000,
+          "quantity": 1
+        },
+        {
+          "id": "P019",
+          "category": "Travel",
+          "name": "Travel Pillow",
+          "price": 5000,
+          "quantity": 3
+        }
+      ],
+      "total": 50000
+    }
+  },
+  {
+    "id": "C010",
+    "first_name": "Gal",
+    "last_name": "Gadot",
+    "cash": 170000,
+    "basket": {
+      "id": "B010",
+      "products": [
+        {
+          "id": "P020",
+          "category": "Film",
+          "name": "DVD Set",
+          "price": 10000,
+          "quantity": 2
+        },
+        {
+          "id": "P021",
+          "category": "Music",
+          "name": "Album",
+          "price": 15000,
+          "quantity": 2
+        },
+        {
+          "id": "P022",
+          "category": "Gaming",
+          "name": "Video Game",
+          "price": 6000,
+          "quantity": 4
+        }
+      ],
+      "total": 74000
+    }
+  },
+  {
+    "id": "C011",
+    "first_name": "Brad",
+    "last_name": "Pitt",
+    "cash": 200000,
+    "basket": {
+      "id": "B011",
+      "products": [
+        {
+          "id": "P023",
+          "category": "Home",
+          "name": "Candle Set",
+          "price": 12000,
+          "quantity": 3
+        },
+        {
+          "id": "P024",
+          "category": "Kitchen",
+          "name": "Cookware",
+          "price": 25000,
+          "quantity": 1
+        }
+      ],
+      "total": 51000
+    }
+  },
+  {
+    "id": "C012",
+    "first_name": "Natalie",
+    "last_name": "Portman",
+    "cash": 180000,
+    "basket": {
+      "id": "B012",
+      "products": [
+        {
+          "id": "P025",
+          "category": "Art",
+          "name": "Canvas",
+          "price": 8000,
+          "quantity": 5
+        },
+        {
+          "id": "P026",
+          "category": "Craft",
+          "name": "Craft Kit",
+          "price": 12000,
+          "quantity": 2
+        }
+      ],
+      "total": 64000
+    }
+  },
+  {
+    "id": "C013",
+    "first_name": "Will",
+    "last_name": "Smith",
+    "cash": 220000,
+    "basket": {
+      "id": "B013",
+      "products": [
+        {
+          "id": "P027",
+          "category": "Fitness",
+          "name": "Dumbbells",
+          "price": 18000,
+          "quantity": 2
+        },
+        {
+          "id": "P028",
+          "category": "Health",
+          "name": "Vitamins",
+          "price": 7000,
+          "quantity": 4
+        }
+      ],
+      "total": 64000
+    }
+  },
+  {
+    "id": "C014",
+    "first_name": "Meryl",
+    "last_name": "Streep",
+    "cash": 240000,
+    "basket": {
+      "id": "B014",
+      "products": [
+        {
+          "id": "P029",
+          "category": "Fashion",
+          "name": "Designer Dress",
+          "price": 45000,
+          "quantity": 1
+        }
+      ],
+      "total": 45000
+    }
+  },
+  {
+    "id": "C015",
+    "first_name": "Robert",
+    "last_name": "Downey Jr.",
+    "cash": 190000,
+    "basket": {
+      "id": "B015",
+      "products": [
+        {
+          "id": "P030",
+          "category": "Tech",
+          "name": "Smartwatch",
+          "price": 12000,
+          "quantity": 3
+        },
+        {
+          "id": "P031",
+          "category": "Gadgets",
+          "name": "Portable Charger",
+          "price": 8000,
+          "quantity": 4
+        }
+      ],
+      "total": 68000
+    }
+  },
+  {
+    "id": "C016",
+    "first_name": "Ryan",
+    "last_name": "Reynolds",
+    "cash": 210000,
+    "basket": {
+      "id": "B016",
+      "products": [
+        {
+          "id": "P032",
+          "category": "Tech",
+          "name": "Wireless Earbuds",
+          "price": 15000,
+          "quantity": 2
+        },
+        {
+          "id": "P033",
+          "category": "Accessories",
+          "name": "Phone Case",
+          "price": 5000,
+          "quantity": 3
+        },
+        {
+          "id": "P034",
+          "category": "Fitness",
+          "name": "Yoga Mat",
+          "price": 8000,
+          "quantity": 1
+        }
+      ],
+      "total": 53000
+    }
+  },
+  {
+    "id": "C017",
+    "first_name": "Margot",
+    "last_name": "Robbie",
+    "cash": 180000,
+    "basket": {
+      "id": "B017",
+      "products": [
+        {
+          "id": "P035",
+          "category": "Beauty",
+          "name": "Face Cream",
+          "price": 12000,
+          "quantity": 2
+        },
+        {
+          "id": "P036",
+          "category": "Fragrance",
+          "name": "Cologne",
+          "price": 18000,
+          "quantity": 1
+        },
+        {
+          "id": "P037",
+          "category": "Clothing",
+          "name": "Sunglasses",
+          "price": 8000,
+          "quantity": 4
+        }
+      ],
+      "total": 74000
+    }
+  },
+  {
+    "id": "C018",
+    "first_name": "Chris",
+    "last_name": "Evans",
+    "cash": 200000,
+    "basket": {
+      "id": "B018",
+      "products": [
+        {
+          "id": "P038",
+          "category": "Sports",
+          "name": "Basketball",
+          "price": 25000,
+          "quantity": 1
+        },
+        {
+          "id": "P039",
+          "category": "Fitness",
+          "name": "Protein Powder",
+          "price": 12000,
+          "quantity": 3
+        },
+        {
+          "id": "P040",
+          "category": "Tech",
+          "name": "Fitness Tracker",
+          "price": 18000,
+          "quantity": 2
+        }
+      ],
+      "total": 97000
+    }
+  },
+  {
+    "id": "C019",
+    "first_name": "Zendaya",
+    "last_name": "Coleman",
+    "cash": 220000,
+    "basket": {
+      "id": "B019",
+      "products": [
+        {
+          "id": "P041",
+          "category": "Clothing",
+          "name": "Sweater",
+          "price": 12000,
+          "quantity": 2
+        },
+        {
+          "id": "P042",
+          "category": "Accessories",
+          "name": "Watch",
+          "price": 15000,
+          "quantity": 3
+        },
+        {
+          "id": "P043",
+          "category": "Beauty",
+          "name": "Lip Balm",
+          "price": 5000,
+          "quantity": 4
+        }
+      ],
+      "total": 89000
+    }
+  },
+  {
+    "id": "C020",
+    "first_name": "Tom",
+    "last_name": "Cruise",
+    "cash": 190000,
+    "basket": {
+      "id": "B020",
+      "products": [
+        {
+          "id": "P044",
+          "category": "Movies",
+          "name": "DVD Collection",
+          "price": 30000,
+          "quantity": 1
+        },
+        {
+          "id": "P045",
+          "category": "Tech",
+          "name": "Bluetooth Speaker",
+          "price": 15000,
+          "quantity": 2
+        },
+        {
+          "id": "P046",
+          "category": "Gaming",
+          "name": "Board Game",
+          "price": 8000,
+          "quantity": 3
+        },
+        {
+          "id": "P047",
+          "category": "Books",
+          "name": "Mystery Novel",
+          "price": 10000,
+          "quantity": 2
+        }
+      ],
+      "total": 104000
+    }
+  },
+  {
+    "id": "C021",
+    "first_name": "Emma",
+    "last_name": "Stone",
+    "cash": 200000,
+    "basket": {
+      "id": "B021",
+      "products": [
+        {
+          "id": "P048",
+          "category": "Fashion",
+          "name": "High Heels",
+          "price": 25000,
+          "quantity": 1
+        },
+        {
+          "id": "P049",
+          "category": "Jewelry",
+          "name": "Earrings",
+          "price": 12000,
+          "quantity": 4
+        },
+        {
+          "id": "P050",
+          "category": "Accessories",
+          "name": "Handbag",
+          "price": 18000,
+          "quantity": 2
+        }
+      ],
+      "total": 109000
+    }
+  },
+  {
+    "id": "C022",
+    "first_name": "Chris",
+    "last_name": "Pratt",
+    "cash": 180000,
+    "basket": {
+      "id": "B022",
+      "products": [
+        {
+          "id": "P051",
+          "category": "Toys",
+          "name": "Action Figures",
+          "price": 8000,
+          "quantity": 3
+        },
+        {
+          "id": "P052",
+          "category": "Tech",
+          "name": "VR Headset",
+          "price": 35000,
+          "quantity": 1
+        },
+        {
+          "id": "P053",
+          "category": "Movies",
+          "name": "Movie Poster",
+          "price": 5000,
+          "quantity": 4
+        }
+      ],
+      "total": 79000
+    }
+  },
+  {
+    "id": "C023",
+    "first_name": "Scarlett",
+    "last_name": "Johansson",
+    "cash": 210000,
+    "basket": {
+      "id": "B023",
+      "products": [
+        {
+          "id": "P054",
+          "category": "Beauty",
+          "name": "Hair Dryer",
+          "price": 15000,
+          "quantity": 2
+        },
+        {
+          "id": "P055",
+          "category": "Clothing",
+          "name": "Jeans",
+          "price": 18000,
+          "quantity": 3
+        },
+        {
+          "id": "P056",
+          "category": "Accessories",
+          "name": "Sunglasses",
+          "price": 8000,
+          "quantity": 4
+        }
+      ],
+      "total": 116000
+    }
+  },
+  {
+    "id": "C024",
+    "first_name": "Daniel",
+    "last_name": "Radcliffe",
+    "cash": 190000,
+    "basket": {
+      "id": "B024",
+      "products": [
+        {
+          "id": "P057",
+          "category": "Books",
+          "name": "Fantasy Novel",
+          "price": 12000,
+          "quantity": 2
+        },
+        {
+          "id": "P058",
+          "category": "Tech",
+          "name": "Laptop",
+          "price": 50000,
+          "quantity": 1
+        },
+        {
+          "id": "P059",
+          "category": "Movies",
+          "name": "DVD Set",
+          "price": 18000,
+          "quantity": 3
+        },
+        {
+          "id": "P060",
+          "category": "Stationery",
+          "name": "Notebook Set",
+          "price": 8000,
+          "quantity": 2
+        }
+      ],
+      "total": 126000
+    }
+  },
+  {
+    "id": "C025",
+    "first_name": "Jennifer",
+    "last_name": "Lawrence",
+    "cash": 200000,
+    "basket": {
+      "id": "B025",
+      "products": [
+        {
+          "id": "P061",
+          "category": "Fashion",
+          "name": "Designer Jacket",
+          "price": 35000,
+          "quantity": 1
+        },
+        {
+          "id": "P062",
+          "category": "Accessories",
+          "name": "Hat",
+          "price": 5000,
+          "quantity": 4
+        },
+        {
+          "id": "P063",
+          "category": "Beauty",
+          "name": "Makeup Kit",
+          "price": 25000,
+          "quantity": 2
+        }
+      ],
+      "total": 105000
+    }
+  }]
